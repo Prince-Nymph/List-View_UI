@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Info</string>
+    <string name="call_phone">拨打电话</string>
+    <string name="input_phone">请输入11位电话号码</string>
+    <string name="button">写入数据</string>
+    <string name="button1">读取数据</string>
+    <string name="title">Info</string>
+</resources>

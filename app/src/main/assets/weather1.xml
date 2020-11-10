@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://WebXml.com.cn/">
+    <string>福州</string>
+    <string>19℃/25℃</string>
+    <string>10月20日 阴转多云</string>
+    <string>东北风3级转东北偏东阵风4级</string>
+    <string>太阳镜指数：必要。建议佩戴透射比为1级的遮阳镜。
+晾衣指数：适宜晾晒。
+洗车指数：一级：适宜洗车
+晨练指数：一级：适宜晨练
+感冒指数：三级：容易感冒
+旅游指数：二级：较适宜旅游巴彦浩特
+感冒指数：易发。昼夜温差很大，注意预防感冒。
+空气污染指数：良好。
+紫外线指数：中等，轻度有害，注意防护，涂擦SPF值为15的防晒霜。
+舒适度指数：较舒适。白天晴好，早晚偏凉，午后舒适。
+    </string>
+</ArrayOfString>
